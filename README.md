@@ -39,7 +39,7 @@ Authify offers a **minimalist and professional interface** with:
 <img width="1917" height="960" alt="Screenshot 2025-10-15 095742" src="https://github.com/user-attachments/assets/c6c17593-5b28-4dc8-a712-653b0f4e1b34" />
 
 
-### database(Encryptipn)
+### database(Encryption)
 <img width="1658" height="582" alt="image" src="https://github.com/user-attachments/assets/ced6f493-b1a8-490a-a2a1-f2f679869302" />
 
 
@@ -62,6 +62,7 @@ Authify offers a **minimalist and professional interface** with:
 ```bash
 git clone https://github.com/<your-username>/authify.git
 cd authify
+
 
 
 
