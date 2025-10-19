@@ -31,7 +31,8 @@ Authify offers a **minimalist and professional interface** with:
 
 
 ### Register Page
-<img width="1916" height="894" alt="Screenshot 2025-10-19 173601" src="https://github.com/user-attachments/assets/2fb9dd4a-8857-4c42-8c31-79c6be1a0e09" />
+<img width="1908" height="899" alt="image" src="https://github.com/user-attachments/assets/09147fd4-511b-4316-aab2-5f9d647d758e" />
+
 <img width="1914" height="891" alt="Screenshot 2025-10-19 172213" src="https://github.com/user-attachments/assets/fbc2b016-acc7-4f06-949b-389061fd859a" />
 )
 
@@ -62,6 +63,7 @@ Authify offers a **minimalist and professional interface** with:
 ```bash
 git clone https://github.com/<your-username>/authify.git
 cd authify
+
 
 
 
