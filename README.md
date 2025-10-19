@@ -27,8 +27,8 @@ Authify offers a **minimalist and professional interface** with:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](<img width="1899" height="962" alt="Screenshot 2025-10-15 095615" src="https://github.com/user-attachments/assets/692e4747-e00b-466d-9291-68c6a1b15865" />
-)
+<img width="1899" height="962" alt="Screenshot 2025-10-15 095615" src="https://github.com/user-attachments/assets/5d0c9a35-43ef-47f1-81ba-029754e321c6" />
+
 
 ### Register Page
 ![Register Page](<img width="1918" height="897" alt="Screenshot 2025-10-19 172155" src="https://github.com/user-attachments/assets/58fe6312-dc7c-4b80-af45-5a0f69584a64" />
@@ -36,24 +36,22 @@ Authify offers a **minimalist and professional interface** with:
 )
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="1910" height="946" alt="Screenshot 2025-10-15 095650" src="https://github.com/user-attachments/assets/efbc48fc-5fbc-4902-9e07-d0dd8ced2f6d" />
+
 
 ### Login Success
-![Login Success](screenshots/success.png)
+<img width="1917" height="960" alt="Screenshot 2025-10-15 095742" src="https://github.com/user-attachments/assets/c6c17593-5b28-4dc8-a712-653b0f4e1b34" />
 
-> Make sure to put your images in a folder named `screenshots` in your repo.
-
----
 
 ## ⚙️ Technology Stack
 
-| Layer        | Technology          |
-| ------------ | ----------------- |
-| Backend      | Node.js, Express   |
-| Database     | MySQL              |
-| Authentication | bcrypt.js        |
-| Environment  | dotenv             |
-| Frontend     | HTML, CSS          |
+| Layer          | Technology         |
+| -------------- | -----------------  |
+| Backend        | Node.js, Express   |
+| Database       | MySQL              |
+| Authentication | bcrypt.js          |
+| Environment    | dotenv             |
+| Frontend       | HTML, CSS          |
 
 ---
 
@@ -63,4 +61,5 @@ Authify offers a **minimalist and professional interface** with:
 ```bash
 git clone https://github.com/<your-username>/authify.git
 cd authify
+
 
